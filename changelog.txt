@@ -1,0 +1,5 @@
+1- Added role 6 that stands for user who didn't choose his type of participation yet.
+2- When the column registration in the "controls" table is set to 0, the Registration becomes closed. PS: The register button is still visible (because landing page have to be static).
+3- Set registration Open by default in migration files.
+4- Added the ability to upload the CIN later after skipping it. (And it shows the first thing after every attempt to login)
+5- Fixed some user dashboard functionalities.
